@@ -77,7 +77,7 @@ Com base nos gargalos estruturais identificados nas análises, o planejamento ec
 
 ### 3. Política de Estoques Reguladores para Combater a Carestia de Alimentos
 *   **O Dado de Origem:** O gráfico 2 mostra que a inflação de **Alimentos e Bebidas** atinge picos muito superiores ao IPCA Geral nos momentos de crise (2015 e 2020), atacando a segurança alimentar.
-*   **A Decisão:** Financiar a retomada de estoques reguladores públicos (via CONAB) para alimentos essenciais (arroz, feijão e milho). O State deve intervir vendendo estoques estrategicamente abaixo do preço de mercado durante choques inflacionários na cadeia produtiva, quebrando artificialmente a curva de alta e forçando a linha vermelha do gráfico a convergir de volta à estabilidade.
+*   **A Decisão:** Financiar a retomada de estoques reguladores públicos (via CONAB) para alimentos essenciais (arroz, feijão e milho). O Estado deve intervir vendendo estoques estrategicamente abaixo do preço de mercado durante choques inflacionários na cadeia produtiva, quebrando artificialmente a curva de alta e forçando a linha vermelha do gráfico a convergir de volta à estabilidade.
 
 ---
 
