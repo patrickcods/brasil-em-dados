@@ -17,13 +17,4 @@ Para garantir rigor metodológico e escalabilidade, todos os episódios seguem p
 
 ---
 
-## Guia de Episódios
 
-| Episódio | Tema Principal | Status | Principais Fontes de Dados |
-| :--- | :--- | :---: | :--- |
-| **01** | **O Custo de Reprodução da Força de Trabalho** | 🟢 Concluído | IBGE (SIDRA/PNAD), IPEADATA, Tesouro Nacional |
-| **02** | **Segurança Pública e Encarceramento** | 🔴 Planejado | Fórum Brasileiro de Segurança Pública, DEPEN |
-| **03** | **Educação e Evasão Escolar no Ensino Médio** | 🔴 Planejado | INEP (Censo Escolar, IDEB), PNAD Contínua |
-| **04** | **Saúde Pública e Atenção Primária** | 🔴 Planejado | DATASUS, Projeções Populacionais IBGE |
-
----
